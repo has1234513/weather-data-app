@@ -10,7 +10,7 @@ in a terminal run the following command to start the server
 
 ```
 cd back-end/
-python3 manage.py runserver
+python3 manage.py runserver 8000
 ```
 
 ### Front End
