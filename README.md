@@ -16,3 +16,6 @@ python3 manage.py runserver 8000
 ### Front End
 
 Open front-end/index.html file with any browser
+
+
+Old app for test
